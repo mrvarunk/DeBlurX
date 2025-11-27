@@ -7,8 +7,8 @@
 2.  **FFT-Attention Blocks:** For frequency-domain restoration (recovering edges and sharpness).
 
 ### 👥 Team Members
-* **Varun K** (1MS23IS140)
-* **Vishal D Dhamu** (1MS23IS149)
+* **Varun K** 
+* **Vishal D Dhamu** 
 
 ---
 
