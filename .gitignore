@@ -1,0 +1,20 @@
+# 1. Ignore System & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# 2. Ignore Datasets (GitHub is for code, not raw data)
+dataset/
+train/
+test/
+
+# 3. Ignore Generated Results & Temporary Images
+results/
+epoch_*_result.png
+
+# 4. Ignore ALL Model Weights first
+*.pth
+
+# 5. EXCEPTION: Force Git to upload ONLY the final model
+!deblurx_epoch_50.pth
